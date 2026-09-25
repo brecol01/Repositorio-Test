@@ -18,9 +18,3 @@ git push
 > 💡 Si trabajas desde otro equipo, haz `git pull` antes de empezar.
 
 ---
-
-## 🗓️ Horario
-
-<p align="center">
-  <img src="Horario%202º%20DAW.jpeg" alt="Horario 2º DAW" width="700">
-</p>
